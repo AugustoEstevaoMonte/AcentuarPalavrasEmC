@@ -1,1 +1,1 @@
-![external-content duckduckgo com](https://user-images.githubusercontent.com/63557590/89323370-f7717f80-d65b-11ea-93bb-7be161edabbc.png)
+![external-content duckduckgo com](https://user-images.githubusercontent.com/63557590/89324187-453ab780-d65d-11ea-9f66-63efe4e5e98b.gif)
