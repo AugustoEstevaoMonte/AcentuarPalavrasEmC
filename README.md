@@ -7,3 +7,5 @@
 
 ### Sobre as pastas:
 O conteúdo do repositório está dividido em 3 partes, sendo elas "College Exercises" em que eu posto alguns exercícios ou trabalhos que eu fiz durante minha carreira acadêmica, "Learning" repositório destinado a alguns exercícios de linguagens recém-aprendidas e por último "URI Online Judge" em que eu posto a resolução de alguns exercícios do URI.
+
+<a href="https://www.urionlinejudge.com.br/judge/pt/profile/453285">Meu perfil no URI</a>
