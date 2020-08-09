@@ -1,0 +1,5 @@
+nameOfVendor=str(input())
+fixedSalary=float(input())
+sales=float(input())
+total=(sales*0.15+fixedSalary)
+print("TOTAL = R$ %0.2f" % total)

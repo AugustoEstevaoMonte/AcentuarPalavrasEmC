@@ -1,0 +1,8 @@
+codePiece=int(input())
+numeroDePecas=int(input())
+valorUnitario=float(input())
+codePiece2=int(input())
+numeroDePecas2=int(input())
+valorUnitario2=float(input())
+total=(numeroDePecas*valorUnitario+numeroDePecas2*valorUnitario2)
+print("VALOR A PAGAR: R$ %0.2f" % total)
