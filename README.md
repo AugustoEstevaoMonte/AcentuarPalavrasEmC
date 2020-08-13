@@ -17,8 +17,9 @@ O conteúdo do repositório está dividido em 3 partes, sendo elas "College Exer
 # <b>Linguagens do repositório:</b>
 <img src="https://user-images.githubusercontent.com/63557590/90194471-d0265b00-dd9d-11ea-9730-3c1a142fc814.png" width=240 height=300>
 
-* * *
 
 - Python 3.8
 - C (4.8.5)
+
+* * *
 
