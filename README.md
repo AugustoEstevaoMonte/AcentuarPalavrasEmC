@@ -1,6 +1,6 @@
 # URI Online Judge e HackerRank
 
-![download.png](:/4a57962e452b449cb9b519e526c7c4d7)
+![download](https://user-images.githubusercontent.com/63557590/90193377-2d6cdd00-dd9b-11ea-91d4-1576e8c04d01.png)
 
 * * *
 ## Sobre o repositório:
@@ -12,6 +12,6 @@ O conteúdo do repositório está dividido em 3 partes, sendo elas "College Exer
 <h2><strong>Meu perfil no URI:</strong></h2>
 
 
-![Sem título.png](:/dc3242fc022d422799931d86e67fc503)
 
+![Sem título](https://user-images.githubusercontent.com/63557590/90193398-38277200-dd9b-11ea-9c81-e45139656dd0.png)
 <a href="https://www.urionlinejudge.com.br/judge/pt/profile/453285">Clique Aqui!</a>
