@@ -9,7 +9,7 @@
 <h1 style="color: black"> Sobre as pastas:</h1>
 O conteúdo do repositório está dividido em 3 partes, sendo elas "College Exercises" em que eu posto alguns exercícios ou trabalhos que eu fiz durante minha carreira acadêmica, "Learning" repositório destinado a alguns exercícios de linguagens recém-aprendidas e por último "URI Online Judge" em que eu posto a resolução de alguns exercícios do URI.
 
-<h2><strong>Meu perfil no URI:</strong></h2>
+<h1><strong>Meu perfil no URI:</strong></h1>
 
 <a href="https://www.urionlinejudge.com.br/judge/pt/profile/453285"><img src="https://user-images.githubusercontent.com/63557590/90193398-38277200-dd9b-11ea-9c81-e45139656dd0.png"></a>
 
