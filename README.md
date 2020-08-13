@@ -11,7 +11,6 @@ O conteúdo do repositório está dividido em 3 partes, sendo elas "College Exer
 
 <h2><strong>Meu perfil no URI:</strong></h2>
 
+<a href="https://www.urionlinejudge.com.br/judge/pt/profile/453285"><img src="https://user-images.githubusercontent.com/63557590/90193398-38277200-dd9b-11ea-9c81-e45139656dd0.png"></a>
 
 
-![Sem título](https://user-images.githubusercontent.com/63557590/90193398-38277200-dd9b-11ea-9c81-e45139656dd0.png)
-<a href="https://www.urionlinejudge.com.br/judge/pt/profile/453285">Clique Aqui!</a>
