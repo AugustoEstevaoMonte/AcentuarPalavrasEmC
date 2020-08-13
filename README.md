@@ -15,7 +15,7 @@ O conteúdo do repositório está dividido em 3 partes, sendo elas "College Exer
 
 <a href="https://www.urionlinejudge.com.br/judge/pt/profile/453285">Clique na Imagem, ou clique aqui!</a>
 # <b>Linguagens do repositório:</b>
-<img src="https://user-images.githubusercontent.com/63557590/90194471-d0265b00-dd9d-11ea-9730-3c1a142fc814.png" width=240 height=300>
+<img src="https://user-images.githubusercontent.com/63557590/90194471-d0265b00-dd9d-11ea-9730-3c1a142fc814.png" width=240 height=250>
 
 
 - Python 3.8
