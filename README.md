@@ -1,6 +1,7 @@
 # URI Online Judge e HackerRank
 
 <a href="https://www.hackerrank.com/augusto_estevao"><img src="https://user-images.githubusercontent.com/63557590/90193377-2d6cdd00-dd9b-11ea-91d4-1576e8c04d01.png"></a>
+<a href="https://www.hackerrank.com/augusto_estevao">Clique na Imagem, ou clique aqui!</a>
 
 * * *
 ## Sobre o repositório:
